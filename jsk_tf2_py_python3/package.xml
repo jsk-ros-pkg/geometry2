@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>jsk_tf2_py_python3</name>
-  <version>0.6.8</version>
+  <version>0.6.9</version>
   <description>The tf2_py package for python3 compatibility in melodic environment. Supported by ROS community.</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
