@@ -143,6 +143,8 @@ endif()
 #   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 # )
 
+## tf_pytyhon3 :: re-set PROJECT_NAME to tf
+set(PROJECT_NAME tf2_py)
 ## tf_pytyhon3 :: re-set CATKIN_PACKAGE_PYTHON_DESTINATION with PROJECT_NAME as tf
 set(CATKIN_PACKAGE_PYTHON_DESTINATION lib/python${PYTHON_VERSION_MAJOR}/dist-packages/${PROJECT_NAME})
 
